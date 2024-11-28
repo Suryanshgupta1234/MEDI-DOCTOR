@@ -1,5 +1,5 @@
 # MEDI-DOCTOR
-**Organic Project Description for "My Medi OC"**  
+
 
 My Medi OC is an innovative platform designed to simplify healthcare access by enabling users to search for doctors and medical professionals in their local area. With a user-friendly interface, the platform allows patients to filter results by specialization, proximity, availability, and ratings.  
 
